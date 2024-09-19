@@ -30,7 +30,7 @@ gem 'bootsnap', require: false
 
 gem 'bcrypt', '~> 3.1', '>= 3.1.12'
 gem 'rack-cors'
-gem 'faraday', '~> 2.10', '>= 2.10.1'
+gem 'faraday', '~> 2.12'
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
